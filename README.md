@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvhuynh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://myreadme.vercel.app/api/embed/kvhuynh?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
